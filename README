@@ -1,0 +1,8 @@
+参考学习：https://sourceware.org/gdb/current/onlinedocs/gdb/Python-API.html
+参考学习：https://segmentfault.com/u/spacewander/articles?page=3
+
+该项目的目的就是，使用python+gdb脚本，在程序的运行过程中自动化的获取运行数据
+
+项目状态，才刚刚立项，敬请关注 
+
+
